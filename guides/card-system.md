@@ -17,5 +17,5 @@ Since cards are collected into an account-wide album rather than being slotted i
 In this server, equipment customization relies heavily on **Runes** instead of traditional cards. Runes fill the role of customized stat boosts, special effects, and synergies.
 
 > [!NOTE]
-> You can check the complete effects and details of all available runes on the official list:
-> *(Official Rune List link coming soon)*
+> You can check the complete effects and details of all available runes on the official rune database:
+> [Card Captor RO - Runes Database](https://cc-ro.com/db-runes)
